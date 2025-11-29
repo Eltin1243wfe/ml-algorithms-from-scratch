@@ -9,13 +9,6 @@ The project includes:
 --Synthetic testing
 --Using .csv file testing
 
-# Directory structure:
-linear_regression/
-│── linear_regression.py        # Algorithm implementation
-│── test_manual.py              # Simple manual test
-│── test_synthetic.py           # Random synthetic dataset test
-│── test_csv.py                 # Real CSV dataset test
-│── linear_data.csv             # Data file for CSV tests
 
 # Math explanation
 Hypothesis:  y(x) = w * x + b
